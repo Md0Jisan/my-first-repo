@@ -5,6 +5,10 @@
     margin-left: 500px;
     margin-right: 500px;
 }
-.label{
+label{
     display: block;
+    margin-bottom: 10px;
+}
+span{
+    color: rgb(134, 21, 62);
 }
