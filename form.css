@@ -1,0 +1,10 @@
+#head {
+    text-align: center;
+    color: darkblue;
+    background-color: bisque;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.label{
+    display: block;
+}
