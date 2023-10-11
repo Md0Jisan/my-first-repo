@@ -2,9 +2,10 @@ nav > ul{
     display: flex;
 }
 nav li{
+
     list-style: none;
     display: inline;
-    margin-right: 10px;
+    margin-right: 30px;
 }
 nav li a{
     text-decoration: none;
@@ -12,6 +13,6 @@ nav li a{
 }
 nav li:hover{
     background-color: aqua;
-    padding: 10px;
+    padding: 5px;
     
 }
