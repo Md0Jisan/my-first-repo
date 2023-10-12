@@ -16,3 +16,12 @@ nav li:hover{
     padding: 5px;
     
 }
+nav li .drop{
+    display: none;
+    position: absolute;
+    background-color: chartreuse;
+    padding: 5px;
+}
+nav li:hover .drop{
+            display: block;
+}
