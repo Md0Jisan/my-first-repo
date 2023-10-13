@@ -1,0 +1,25 @@
+nav > ul{
+    display: flex;
+}
+nav li {
+    list-style: none;
+    margin-left: 10px;
+}
+nav li a{
+    text-decoration: none;
+    color: rgb(10, 71, 107);
+}
+nav li:hover{
+    background-color: black;
+    padding: 5px;
+}
+nav li .all{
+    display: none;
+    position: absolute;
+    background-color: burlywood;
+    padding: 5px;
+}
+nav li:hover > .all{
+    display: block;
+
+}
