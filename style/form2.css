@@ -1,0 +1,16 @@
+#head{
+    color: chartreuse;
+    background-color: black;
+    padding: 5px;
+    margin-right: 450px;
+    margin-left: 450px;
+    text-align: center;
+}
+label{
+    display: block;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+#last{
+    text-align: end;
+}
